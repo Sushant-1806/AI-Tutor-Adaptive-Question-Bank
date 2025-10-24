@@ -1,0 +1,8 @@
+Arrays|What is the index of the first element?|0|1|A|N/A|A
+Pointers|What does & do?|Get value|Get address|Dereference|Declare|B
+Stacks|A stack is...|LIFO|FIFO|LILO|FIFO/LIFO|A
+Arrays|How do you declare an array of 10 ints?|int arr[10]|int arr(10)|array arr[10]|int[10] arr|A
+Pointers|What does * do (as a unary operator)?|Get address|Multiply|Dereference|Comment|C
+Structs|What keyword is used to define a structure?|struct|typedef|object|class|A
+Queues|A queue is...|LIFO|FIFO|FILO|LILO|B
+Arrays|What is the size of int arr[5]?|5 bytes|20 bytes|4 bytes|Depends on compiler|B
