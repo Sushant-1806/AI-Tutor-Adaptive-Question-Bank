@@ -31,6 +31,7 @@ int main() {
 
     int choice = 0;
     while (choice != 3) {
+        //Menu Options
         printf("\n============================\n");
         printf("    AI Tutor Main Menu\n");
         printf("============================\n");
